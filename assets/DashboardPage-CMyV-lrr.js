@@ -4858,7 +4858,7 @@ function xn() {
         })]
     }), document.body)
 }
-const pn = "/assets/simatslogo-BcpYLKAh.png";
+const pn = "./assets/simatslogo-BcpYLKAh.png";
 
 function hn({
     onComplete: t

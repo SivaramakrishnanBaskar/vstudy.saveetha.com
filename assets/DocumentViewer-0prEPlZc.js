@@ -29,7 +29,7 @@ import {
 import {
     X as R
 } from "./x-5ZDqsGnB.js";
-ne.workerSrc = new URL("/assets/pdf.worker.min-qwK7q_zL.mjs",
+ne.workerSrc = new URL("./assets/pdf.worker.min-qwK7q_zL.mjs",
     import.meta.url).toString();
 const o = ({
         onClick: s,
