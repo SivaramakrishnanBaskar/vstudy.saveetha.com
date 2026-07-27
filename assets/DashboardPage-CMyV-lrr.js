@@ -2001,7 +2001,7 @@ const wa = ({
                     className: `relative flex items-center p-1 rounded-full transition-colors ${ta(t)} ${L?"opacity-60 cursor-not-allowed":""}`,
                     title: L ? "Menu is temporarily disabled while activation is under review" : "Open menu",
                     children: [e.jsx("img", {
-                        src: "/vianastudy.png",
+                        src: "./vianastudy.png",
                         alt: "VianaStudy",
                         className: "w-8 h-8 object-contain rounded-full bg-white"
                     }), L && e.jsx("span", {
